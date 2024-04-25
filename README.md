@@ -94,7 +94,7 @@
 <br clear="both">
 
 ###
-![Snake animation](https://raw.githubusercontent.com/{diana180102}/{diana180102}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/diana180102/diana180102/output/github-contribution-grid-snake-dark.svg)
 
 <br clear="both">
 
