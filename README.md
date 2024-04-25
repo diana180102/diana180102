@@ -104,8 +104,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diana180102&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=false" height="168" alt="languages graph"  />
 </div>
 
+<br clear="both">
+<br clear="both">
+
+
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/diana180102/count.svg?"  />
+</div>
 
 
 ###
