@@ -102,9 +102,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/diana180102/diana180102/output/snake.svg" alt="Snake animation" />
 
 ###
 
