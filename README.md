@@ -9,7 +9,7 @@
 # <div align="center">About Me</div>  
   
 
-- 👩‍🔧 I'm System Engineer  
+- 👩‍🔧 I'm System Engineer and Developer FullStack
   
 
 - 🌱 I’m currently learning Spring Boot and NextJS  
@@ -112,20 +112,18 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=diana180102&show_icons=true&count_private=true&hide_border=true" align="center" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diana180102&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <br/>  
+  <br/>  
  <img src="https://streak-stats.demolab.com?user=diana180102&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <br/> 
+  <br/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diana180102&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=false" height="168" alt="languages graph"  />
 </div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
