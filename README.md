@@ -1,4 +1,4 @@
-
+<img width="1441" height="985" alt="image" src="https://github.com/user-attachments/assets/2df6e0f9-fd78-48b2-817b-e2a4d0a88234" />
 
 ### Hi there, I'm Diana Mayorga  
 <div align="center">
@@ -12,7 +12,7 @@
 - 👩‍🔧 I'm System Engineer and Developer FullStack
   
 
-- 🌱 I’m currently learning Spring Boot and NextJS  
+- 🌱 I’m currently learning Spring Boot and Architecture Hexagonal 
   
 
 - ❤ I love learning new technologies and I like reading books that may contribute a me growth.  
