@@ -1,4 +1,4 @@
-<img width="1441" height="985" alt="image" src="https://github.com/user-attachments/assets/2df6e0f9-fd78-48b2-817b-e2a4d0a88234" />
+
 
 ### Hi there, I'm Diana Mayorga  
 <div align="center">
