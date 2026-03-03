@@ -173,7 +173,7 @@
 
 
 ###
-![snake](https://raw.githubusercontent.com/diana180102/diana180102/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/diana180102/diana180102/output/github-contribution-grid-snake.svg)
 
 <br clear="both">
 
